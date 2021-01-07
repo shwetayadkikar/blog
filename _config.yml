@@ -59,6 +59,14 @@ footer:
     Subscribe to my email newsletter to receive useful articles and special
     offers. This monthly email is sent out on the first of every month.
   subscribe_action: /subscribe-success
+  links:
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      style: link
+      icon_class: lorem-ipsum
+      new_window: false
+      no_follow: false
+      type: action
 sass:
   indentWidth: 4
   style: nested
