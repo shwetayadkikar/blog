@@ -10,7 +10,7 @@ palette: green
 header:
   title: Ampersand
   logo_img: images/logo.svg
-  logo_img_alt: dev
+  logo_img_alt: devsh
   has_nav: true
   nav_links:
     - label: Home
