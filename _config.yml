@@ -69,6 +69,7 @@ sass:
   indentWidth: 4
   style: nested
   precision: 10
+remote_theme: stackbithq/stackbit-theme-ampersand
 plugins:
   - jekyll-menus
 exclude:
