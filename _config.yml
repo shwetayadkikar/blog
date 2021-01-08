@@ -38,11 +38,6 @@ footer:
       style: icon
       icon_class: fa-linkedin
       new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
-      style: icon
-      icon_class: fa-dev
-      new_window: true
   has_subscribe: false
   subscribe_title: Subscribe for new updates
   subscribe_content: >-
