@@ -1,5 +1,5 @@
 ---
-title: Home
+title: devsh
 has_intro: true
 intro_content: >-
   This is the "about" excerpt. It can be used to provide a paragraph about
@@ -10,9 +10,6 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
-  - label: Contact
-    url: /contact
-    style: secondary
 has_more_link: true
 more_link_text: Read more
 layout: home
