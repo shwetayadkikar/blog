@@ -9,7 +9,7 @@ layout_style: list
 palette: green
 header:
   title: devsh
-  logo_img: images/maroon-birch.png
+  logo_img: images/logo-final.png
   logo_img_alt: devsh
   has_nav: true
   nav_links:
