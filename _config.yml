@@ -86,3 +86,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+favicon: images/square-sloth.png
