@@ -1,4 +1,4 @@
-title: 'Home- '
+title: 'Home '
 baseurl: /
 permalink: '/:title/'
 collections:
