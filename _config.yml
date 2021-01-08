@@ -9,7 +9,7 @@ layout_style: list
 palette: green
 header:
   title: devsh
-  logo_img: images/logo-final.png
+  logo_img: images/logo-FINAL-S.png
   logo_img_alt: devsh
   has_nav: true
   nav_links:
