@@ -12,4 +12,3 @@ layout: page
 
  I am a mom of supremely talkative 3 year old and I thoroughly enjoy what I do. In my spare time, I like watching super dramatic TV shows/movies.
 
-*Thank You for reading!*
