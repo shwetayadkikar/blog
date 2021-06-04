@@ -2,10 +2,7 @@
 title: devsh
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  Hello, I'm Shweta. I have been working in the IT industry for almost decade and working as Cloud Consultant at Rapid Circle India for about 6.5 years. I love building solutions. I have worked as a web developer mostly and currently working extensively with Azure. We have been working on building a low-code solution around Azure Governance and automation. 
 intro_actions:
   - label: Learn More
     url: /about
