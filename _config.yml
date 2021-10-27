@@ -49,6 +49,7 @@ sass:
   indentWidth: 4
   style: nested
   precision: 10
+  source_dir: _sass
 plugins:
   - jekyll-menus
 exclude:
