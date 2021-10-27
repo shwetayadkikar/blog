@@ -65,3 +65,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 favicon: images/square-sloth.png
+repository: shwetayadkikar/blog
