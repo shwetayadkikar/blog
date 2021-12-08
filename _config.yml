@@ -1,16 +1,16 @@
-title: Home devsh
+title: Home stratuss
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: Medium inspired blogging theme for Stackbit
+description: Shweta trying to blog
 layout_style: list
 palette: green
 header:
-  title: devsh
-  logo_img: images/logo-FINAL-S.png
-  logo_img_alt: devsh
+  title: stratuss
+  logo_img: images/Stratus-96-black-big.png
+  logo_img_alt: stratuss
   has_nav: true
   nav_links:
     - label: Home
@@ -64,4 +64,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-favicon: images/square-sloth.png
+# favicon: images/square-sloth.png
