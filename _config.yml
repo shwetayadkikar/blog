@@ -49,6 +49,7 @@ sass:
   indentWidth: 4
   style: nested
   precision: 10
+  source_dir: _sass
 plugins:
   - jekyll-menus
 exclude:
@@ -65,3 +66,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 # favicon: images/square-sloth.png
+repository: shwetayadkikar/blog
